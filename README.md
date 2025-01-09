@@ -13,6 +13,8 @@
     <p>Repositorio de la aplicación de Lenguajes de Marcas y Sistemas de Gestión de Información.</p>
 </div>
 
+<br>
+
 <div align="right">
     <p>Última modificación:<i> 09 de enero de 2025</i></p>
 </div>
