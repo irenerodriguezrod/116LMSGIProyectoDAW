@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?> <!--Declaración del tipo de documento: versión XML y codificación de los caracteres usados-->
+<rss version="2.0">  <!--Especificacion RSS-->
+
+<channel> <!--Contenido del RSS-->
+
+    <title>DAW116 - Irene Rodríguez Rodríguez</title> <!--Nombre del canal-->
+    <link>http://daw116.ieslossauces.es/</link> <!--URL del sitio web-->
+    <description>Canal RRS de la página web DAW116 - Irene Rodríguez. Aquí se publicarán las modificaciones de las prácticas realizadas durante el curso</description> <!--Descripción del sitio web-->
+
+    <!-- Primer item o publicación (unidad 2, práctica 1) -->
+    <item>
+        <title>Unidad 2. Práctica 1. Información de los volcanes más importantes del mundo</title>
+        <link>http://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/unidad2/01/</link> <!--Es el link de la práctica que se ha subido-->
+        <description>Primera práctica de la unidad 2 en la que hay información e imágenes sobre los volcanes más importantes del mundo y curiosidades sobre ellos</description>
+    </item>
+
+</channel>
+
+</rss>
