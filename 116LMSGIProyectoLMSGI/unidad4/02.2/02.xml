@@ -2,7 +2,7 @@
 
 <!DOCTYPE biblioteca SYSTEM "02.dtd"> 
 
-<biblioteca> 
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="02.xsd"> 
 
  <libro id="libro1" genero="novela" idioma="Inglés" formato="digital"> 
  <titulo>1984</titulo> 
