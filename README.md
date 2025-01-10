@@ -119,6 +119,15 @@
 
 <br>
 
+<div align="center">
+    <h2>
+        <img src="https://media.tenor.com/Uc1_BQNb7O8AAAAi/sylveon-pixell.gif" alt="Sylveon sentado" width="50">
+        Gracias por leer.
+    </h2>
+</div>
+
+<br>
+
 <div align="right">
     <p>Última modificación:<i> 10 de enero de 2025</i></p>
 </div>
