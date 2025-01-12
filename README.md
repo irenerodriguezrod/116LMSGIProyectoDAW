@@ -79,14 +79,18 @@
       <td>-</td>
     </tr>
     <tr>
-      <td rowspan="2">Tema 4. XML. DTD. Schema XML</td>
-      <td rowspan="2">Trabajos sobre XML, DTD y Schema XML</td>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/01">Tarea 1. Correo electrónico</a></td>
+      <td rowspan="3">Tema 4. XML. DTD. Schema XML</td>
+      <td rowspan="3">Trabajos sobre XML, DTD y Schema XML</td>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/01">Práctica 1. Correo electrónico (XML)</a></td>
       <td>Creación de un esquema XML de un correo electrónico.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/02">Tarea 2. Biblioteca</a></td>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/02">Práctica 2. Biblioteca(XML,DTD)</a></td>
       <td>Diseño de un esquema XML y DTD para la gestión de una biblioteca.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/irenerodriguezrod/DAW116/tree/main/116LMSGIProyectoLMSGI/unidad4/02.2">Práctica 2.02. Biblioteca (XML, XSD, DTD)</a></td>
+      <td>Diseño de un esquema XML, DTD y XSD para la gestión de una biblioteca.</td>
     </tr>
     <tr>
       <td>Tema 5. Conversión y adaptación de documentos</td>
