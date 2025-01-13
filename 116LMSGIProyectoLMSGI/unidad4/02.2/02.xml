@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 
+<!-- 
+     Nombre: Irene Rodríguez Rodríguez
+     Descripción: Modificación de la tarea 2 de la unidad 4. Creación de los siguientes archivos: .dtd , .xml y .xsd
+     Fecha de creación: 12/01/2025
+     Fecha de modificación: 12/01/2025
+-->
+
 <!DOCTYPE biblioteca SYSTEM "02.dtd"> 
 
 <biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="02.xsd"> 
@@ -21,23 +28,15 @@
  </libro> 
 
 <libro id="libro2" genero="ciencia ficción" formato="impreso" referencia="libro1"> 
-
- <titulo>Dune</titulo> 
-
- <autores> 
-
-<autor> 
-
- <nombre>Frank</nombre> 
-
- <apellido>Herbert</apellido> 
- <nacionalidad>Estadounidense</nacionalidad> 
-
-     </autor> 
-
- </autores> 
-
- <anio>1965</anio> 
- </libro> 
+<titulo>Dune</titulo> 
+<autores>
+    <autor> 
+        <nombre>Frank</nombre> 
+        <apellido>Herbert</apellido> 
+        <nacionalidad>Estadounidense</nacionalidad> 
+    </autor> 
+</autores> 
+<anio>1965</anio> 
+</libro> 
 
 </biblioteca> 
