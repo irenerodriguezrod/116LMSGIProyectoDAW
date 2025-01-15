@@ -34,18 +34,25 @@ body {
     color: #343434;
     /*Gris claro*/
     background-image: url(../media/images/banner.jpeg);
-    background-position: center right;
+    background-position: right top;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
 
-.background
-
-header {
-    background-color: #343a40;
+/* General reset para borrar espacio */
+header,
+nav {
+    margin: 0;
+    padding: 0;
 }
 
-/*Nav */
+/* Header */
+header {
+    background-color: #343a40;
+    padding-top: 3px;
+}
+
+/* Nav */
 nav {
     padding: 0;
     text-align: center;
@@ -63,6 +70,7 @@ nav ul {
 }
 
 nav ul li {
+    background-color: #343a40;
     display: inline-block;
     margin: 0 20px;
 }
@@ -72,8 +80,8 @@ nav a {
     text-decoration: none;
 }
 
-/*Animacion al pasar el raton encima*/
-nav a :hover {
+/* Animación al pasar el ratón encima */
+nav a:hover {
     text-decoration: underline;
     color: #007bff;
 }
