@@ -165,6 +165,12 @@ footer {
     /* Subrayado al pasar el ratón */
 }
 
+footer img {
+    width: 88px;
+    height: 31px;
+    vertical-align: middle;  /* Centra el logo en la línea */
+}
+
 /*Box shadow en las secciones*/
 section,
 article {
