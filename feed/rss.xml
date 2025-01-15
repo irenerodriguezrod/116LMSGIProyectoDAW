@@ -1,19 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?> <!--Declaración del tipo de documento: versión XML y codificación de los caracteres usados-->
-<rss version="2.0">  <!--Especificacion RSS-->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">  <!--Especificacion RSS-->
 
 <channel> <!--Contenido del RSS-->
-
+    <atom:link href="https://daw116.ieslossauces.es/feed/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>es-ES</language>
     <title>DAW116 - Irene Rodríguez Rodríguez</title> <!--Nombre del canal-->
     <link>http://daw116.ieslossauces.es/</link> <!--URL del sitio web-->
     <description>Canal RRS de la página web DAW116 - Irene Rodríguez. Aquí se publicarán las modificaciones de las prácticas realizadas durante el curso</description> <!--Descripción del sitio web-->
+    <image>
+        <url>https://daw116.ieslossauces.es/feed/images/logo.png</url>
+        <title>DAW116 - Irene Rodríguez Rodríguez</title>
+        <link>https://daw116.ieslossauces.es/feed/images/logo.png</link>
+    </image>
+    <category>Educación</category>
+    <lastBuildDate>Tue, 14 Jan 2025 10:00:00 +0100</lastBuildDate>
+    <skipDays>
+        <day>Saturday</day>
+        <day>Sunday</day>
+    </skipDays>
+    <skipHours>
+        <hour>0</hour>
+        <hour>1</hour>
+        <hour>2</hour>
+        <hour>3</hour>
+        <hour>4</hour>
+        <hour>5</hour>
+        <hour>6</hour>
+        <hour>7</hour>
+        <hour>8</hour>
+    </skipHours>
+    <copyright>2025 Irene Rodríguez. Todos los derechos reservados.</copyright>
 
     <!-- Primer item o publicación (unidad 2, práctica 1) -->
     <item>
         <title>Unidad 2. Práctica 1. Información de los volcanes más importantes del mundo</title>
         <link>http://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/unidad2/01/</link> <!--Es el link de la práctica que se ha subido-->
-        <description>Primera práctica de la unidad 2 en la que hay información e imágenes sobre los volcanes más importantes del mundo y curiosidades sobre ellos</description>
+        <description>
+            <![CDATA[ <img src="https://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/unidad2/01/media/images/banner.jpeg"]]>
+            Primera práctica de la unidad 2 en la que hay información e imágenes sobre los volcanes más importantes del mundo y curiosidades sobre ellos.
+        </description>
+        <guid>http://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/unidad2/01/</guid>
     </item>
 
+    <!-- Publicación 2. Añadido el link de GitHub, verificadas todas las páginas-->
+    <item>
+        <title>Añadido el link al repositorio de GitHub</title>
+        <link>https://github.com/irenerodriguezrod/DAW116</link>
+        <description>
+            <![CDATA[ <img src="https://daw116.ieslossauces.es/webroot/media/github-logo.png" width="50" height="50" alt="Logo GitHub"/> ]]>
+            Se ha agregado el link que lleva al repositorio en el que se encuentra el código fuente de la página.
+        </description>
+        <category>Educación</category>
+        <pubDate>Tue, 14 Jan 2025 10:00:00 +0100</pubDate>
+        <guid isPermaLink="false">Repositorio GitHub</guid>
+    </item>
 </channel>
 
 </rss>
