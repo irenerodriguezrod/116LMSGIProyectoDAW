@@ -13,7 +13,7 @@
         <link>https://daw116.ieslossauces.es/feed/images/logo.png</link>
     </image>
     <category>Educación</category>
-    <lastBuildDate>Tue, 14 Jan 2025 10:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2025 10:00:00 +0100</lastBuildDate>
     <skipDays>
         <day>Saturday</day>
         <day>Sunday</day>
@@ -45,7 +45,7 @@
     <!-- Publicación 2. Añadido el link de GitHub, verificadas todas las páginas-->
     <item>
         <title>Añadido el link al repositorio de GitHub</title>
-        <link>https://github.com/irenerodriguezrod/DAW116</link>
+        <link>https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI</link>
         <description>
             <![CDATA[ <img src="https://daw116.ieslossauces.es/webroot/media/github-logo.png" width="50" height="50" alt="Logo GitHub"/> ]]>
             Se ha agregado el link que lleva al repositorio en el que se encuentra el código fuente de la página.
@@ -54,6 +54,55 @@
         <pubDate>Tue, 14 Jan 2025 10:00:00 +0100</pubDate>
         <guid isPermaLink="false">Repositorio GitHub</guid>
     </item>
+
+    <!-- Publicación 3. Agregadas nuevas actividades UD4 -->
+    <item>
+        <title>Agregadas nuevas actividades UD4</title>
+        <link>https://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/index.html#UD04</link>
+        <description>
+            Se han agregado nuevas prácticas realizadas en la unidad 4.
+        </description>
+        <category>Educación</category>
+        <pubDate>Tue, 21 Jan 2025 10:00:00 +0100</pubDate>
+        <guid isPermaLink="false">Unidad 4</guid>
+    </item>
+
+    <!-- Publicación 4. Markdown UD5 -->
+    <item>
+        <title>Agregadas nuevas actividades UD5</title>
+        <link>https://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/index.html#UD05</link>
+        <description>
+            Se han agregado nuevas prácticas realizadas en la unidad 5. Consiste en un documento MarkDown(MD) con rutas XPath de un ejercicio realizado en el tema 4 (el de la universidad)
+        </description>
+        <category>Educación</category>
+        <pubDate>Tue, 28 Jan 2025 10:00:00 +0100</pubDate>
+        <guid isPermaLink="false">Unidad 5</guid>
+    </item>
+
+    <!-- Publicación 5. Agregada nueva seccion en el index de LMSGI -->
+    <item>
+        <title>Agregada nueva sección en el índice de LMSGI</title>
+        <link>https://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/index.html</link>
+        <description>
+            Agregada nueva sección "exámenes" al indice de la asignatura.
+        </description>
+        <category>Educación</category>
+        <pubDate>Tue, 2 Feb 2025 10:00:00 +0100</pubDate>
+        <guid isPermaLink="false">Sección exámenes</guid>
+    </item>
+
+    <!-- Publicación 6. Nuevas prácticas UD5 -->
+    <item>
+        <title>Agregadas nuevas actividades UD5</title>
+        <link>https://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/index.html#UD05</link>
+        <description>
+            Se han agregado nuevas prácticas realizadas en la unidad 5: 01, 02, 04, 05 y 06
+        </description>
+        <category>Educación</category>
+        <pubDate>Tue, 20 Feb 2025 10:00:00 +0100</pubDate>
+        <guid isPermaLink="false">Unidad 5</guid>
+    </item>
+
 </channel>
 
 </rss>
