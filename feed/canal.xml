@@ -121,10 +121,10 @@
         </description>
         <category>Educación</category>
         <pubDate>Tue, 20 Feb 2025 10:00:00 +0100</pubDate>
-        <guid isPermaLink="false">Unidad 5 - Actividad 2</guid>
+        <guid isPermaLink="false">Unidad 5</guid>
     </item>
 
-    <!-- Publicación 7. -->
+    <!-- Publicación 7. Rediseño web (versión 2)-->
     <item>
         <title>Rediseño index principal de la web (Versión 2)</title>
         <link>https://daw116.ieslossauces.es/</link>
@@ -137,6 +137,26 @@
         <guid isPermaLink="false">Nuevo diseño V2</guid>
     </item>
 
+    <!-- Publicación 8. Unidad 2, practica 3(CSS, formulario)-->
+    <item>
+        <title>Agregados estilos</title>
+        <link>https://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/unidad2/03/</link>
+        <description><![CDATA[ <img src="https://daw116.ieslossauces.es/webroot/images/estilosFormulario.png" width="50" height="50" alt="Nuevos estilos para el formulario"/>
+        Se han agregado nuevos estilos al formulario ]]>
+        </description>
+
+        <category>Educación</category>
+        <category>Prácticas</category>
+        <category>Tema 2</category>
+
+        <pubDate>Thu, 6 Mar 2025 15:00:00 +0100</pubDate>
+
+        <author>irene.rodrod.2@educa.jcyl.es (Irene Rodríguez)</author>
+
+        <guid isPermaLink="true">http://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/unidad2/03/</guid>
+    </item>
+
+    <!-- P9. -->
 </channel>
 
 </rss>
