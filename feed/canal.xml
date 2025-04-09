@@ -14,7 +14,7 @@
     </image>
     <category>Educación</category>
     <managingEditor>irene.rodrod.2@educa.jcyl.es(Irene Rodríguez)</managingEditor>
-    <lastBuildDate>Tue, 27 Feb 2025 10:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 9 Apr 2025 18:00:00 +0100</lastBuildDate>
     <skipDays>
         <day>Saturday</day>
         <day>Sunday</day>
@@ -157,6 +157,62 @@
     </item>
 
     <!-- P9. -->
+    <item>
+        <title>Agregada nueva asignatura</title>
+        <link>http://daw116.ieslossauces.es/116EDProyectoED</link>
+        <description><![CDATA[ 
+        Se ha agregado una nueva asignatura: Entornos de desarrollo(ED) ]]>
+        </description>
+
+        <category>Educación</category>
+        <category>Prácticas</category>
+        <category>ED</category>
+
+        <pubDate>Wed, 9 Mar 2025 15:00:00 +0100</pubDate>
+
+        <author>irene.rodrod.2@educa.jcyl.es (Irene Rodríguez)</author>
+
+        <guid isPermaLink="true">http://daw116.ieslossauces.es/116EDProyectoED</guid>
+    </item>
+
+    <!-- P10. -->
+    <item>
+        <title>Agregada nueva tarea</title>
+        <link>http://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/unidad3/01</link>
+        <description><![CDATA[ 
+        Se ha agregado una nueva actividad al tema 3: UD03A01. Acceso y modificación de elementos del DOM ]]>
+        </description>
+
+        <category>Educación</category>
+        <category>Prácticas</category>
+        <category>LMSGI</category>
+
+        <pubDate>Wed, 9 Apr 2025 17:00:00 +0100</pubDate>
+
+        <author>irene.rodrod.2@educa.jcyl.es (Irene Rodríguez)</author>
+
+        <guid isPermaLink="true">http://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/unidad3/01</guid>
+    </item>
+
+    <!-- P11. -->
+    <item>
+        <title>Agregada nueva tarea</title>
+        <link>http://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/unidad3/02</link>
+        <description><![CDATA[ 
+        Se ha agregado una nueva actividad al tema 3: UD03A02. Añadir elementos al DOM ]]>
+        </description>
+
+        <category>Educación</category>
+        <category>Prácticas</category>
+        <category>LMSGI</category>
+
+        <pubDate>Wed, 9 Apr 2025 18:00:00 +0100</pubDate>
+
+        <author>irene.rodrod.2@educa.jcyl.es (Irene Rodríguez)</author>
+
+        <guid isPermaLink="true">http://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/unidad3/02</guid>
+    </item>
+
 </channel>
 
 </rss>
