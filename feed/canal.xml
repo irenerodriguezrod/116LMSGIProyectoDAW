@@ -213,6 +213,25 @@
         <guid isPermaLink="true">http://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/unidad3/02</guid>
     </item>
 
+       <!-- P12. -->
+       <item>
+        <title>Agregada corrección y pie de página: UD03A02</title>
+        <link>http://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/unidad3/02</link>
+        <description><![CDATA[ 
+        Se ha modificado la actividad del tema 3: UD03A02. Se ha añadido un pie de página y corregido el script ]]>
+        </description>
+
+        <category>Educación</category>
+        <category>Prácticas</category>
+        <category>LMSGI</category>
+
+        <pubDate>Sat, 27 Apr 2025 18:00:00 +0100</pubDate>
+
+        <author>irene.rodrod.2@educa.jcyl.es (Irene Rodríguez)</author>
+
+        <guid isPermaLink="true">http://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/unidad3/02</guid>
+    </item>
+
 </channel>
 
 </rss>
