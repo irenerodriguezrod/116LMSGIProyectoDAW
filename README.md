@@ -28,7 +28,31 @@
         <img src="https://media.tenor.com/uj-429a6v-YAAAAi/pixel-art-gmail.gif" alt="Signo exclamación e interrogación" width="20">
         Contenidos.
     </h2>
-    <p>Todavía no hay nada.</p>
+    <p>Aquí encontrarás los diferentes contenidos que hay en el repositorio. Se encuentran ordenados en la siguiente tabla junto con la última fecha de revisión que han tenido.</p>
+    <table>
+        <thead>
+            <th>Contenido</th>
+            <th>Información</th>
+            <th>Fecha actualización</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Index</td>
+                <td>Indice principal de la web</td>
+                <td>09/04/2025</td>
+            <tr>
+            <tr>
+                <td>RSS</td>
+                <td>RSS con el contenido sobre las actualizaciones de la web</td>
+                <td>09/04/2025</td>
+            <tr>
+            <tr>
+                <td>V. Anteriores</td>
+                <td>Versiones anteriores a la actual</td>
+                <td>09/04/2025</td>
+            <tr>
+        </tbody>
+    </table>
 </div>
 
 <br>
@@ -37,7 +61,7 @@
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjMyYmNvZWo0YmNubGZxcjk1Zmt3aHJxZHJvdzJ3Zm8za3o0YzB4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S2ZSkxAa718ZoaTGSa/giphy.gif" alt="Divider de flores y hojas azules" width="350">
 </div>
 
-<br>< 
+<br>
 
 <div align="center">
     <h2>
@@ -49,5 +73,5 @@
 <br>
 
 <div align="right">
-    <p>Última modificación:<i> 22 de febrero de 2025</i></p>
+    <p>Última modificación:<i> 15 de abril de 2025</i></p>
 </div>
