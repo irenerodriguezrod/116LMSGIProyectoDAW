@@ -2,15 +2,15 @@
 <html lang="es">
 <!--
     Autor: Irene Rodríguez Rodríguez
-    Fecha de creación: 17/02/2025
-    Fecha de modificación: 22/02/2025
+    Fecha de creación: 08/04/2025
+    Fecha de modificación: 03/06/2025
     Descripción: Indice de las asignaturas del CFGS 1º DAW 
     -->
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Irene Rodríguez Rodríguez</title>
+    <title>DAW116 | Irene Rodríguez Rodríguez</title>
     <link rel="shortcut icon" type="image/png" href="/webroot/media/favicon/favicon.ico"> <!--Favicon-->
     <!--Estilos de la practica-->
     <link href="/webroot/css/estilos.css" rel="stylesheet" type="text/css">
@@ -22,68 +22,136 @@
 
 <body>
     <header>
-        <h1>Irene Rodríguez Rodríguez</h1>
+        <h1>DAW 116 | Irene Rodríguez Rodríguez</h1>
+        <nav>
+            <ul class="curso">
+                <li><label for="curso1" class="curso-btn">1º Curso</label></li>
+                <li><label for="curso2" class="curso-btn">2º Curso</label></li>
+            </ul>
+        </nav>
     </header>
+
+    <!-- Nuevo título CFGS DAW -->
+    <h2 class="titulo-cfgs">CFGS DAW</h2>
+
     <main>
-        <h2>1º DAW | Asignaturas</h2>
+        <!-- 1º Curso -->
+        <input type="radio" id="curso1" name="curso" class="curso" checked />
+        <div class="curso-content">
+            <h2>Asignaturas 1º curso</h2>
+            <div class="asignaturas">
+                <div class="imagen-container">
+                    <a href="/116LMSGIProyectoLMSGI/index.html">
+                        <img src="/webroot/media/pokemon/Pikachu.jpg"
+                            alt="Lenguajes de marcas y sistemas de gestión de información (LMSGI)"
+                            title="Lenguajes de marcas y sistemas de gestión de información" id="Pikachu">
+                        <span class="asignatura">Lenguajes de marcas y sistemas de gestión de información</span>
+                        <span class="asignatura-full">LMSGI</span>
+                    </a>
+                </div>
+                <div class="imagen-container">
+                    <img src="/webroot/media/pokemon/Bulbasur.jpg" alt="Bases de datos" title="Bases de datos"
+                        id="Bulbasur">
+                    <span class="asignatura">BD</span>
+                    <span class="asignatura-full">Proximamente</span>
+                </div>
+                <div class="imagen-container">
+                    <a href="/116EDProyectoED/index.html">
+                        <img src="/webroot/media/pokemon/Charizard.jpg" alt="Entornos de desarrollo"
+                            title="Entornos de desarrollo" id="Charizard">
+                        <span class="asignatura">Entornos de desarrollo</span>
+                        <span class="asignatura-full">Entornos de desarrollo</span>
 
-        <section>
-            <div class="imagen-container">
-                <a href="/116LMSGIProyectoLMSGI/index.html" target="_blank"><img src="/webroot/media/pokemon/Pikachu.jpg" alt="Lenguajes de marcas y sistemas de gestión de información (LMSGI)" title="Lenguajes de marcas y sistemas de gestión de información" id="Pikachu">
-                <span class="asignatura">Lenguajes de marcas y sistemas de gestión de información</span></a>
+                    </a>
+                </div>
+                <div class="imagen-container">
+                    <img src="/webroot/media/pokemon/Chikorita.jpg" alt="Sistemas informáticos"
+                        title="Sistemas informáticos" id="Chikorita">
+                    <span class="asignatura">SI</span>
+                    <span class="asignatura-full">Proximamente</span>
+                </div>
+                <div class="imagen-container">
+                    <img src="/webroot/media/pokemon/Eevee.jpg" alt="Programación" title="Programación" id="Eevee">
+                    <span class="asignatura">PROG</span>
+                    <span class="asignatura-full">Proximamente</span>
+                </div>
+                <div class="imagen-container">
+                    <img src="/webroot/media/pokemon/Jirachi.jpg" alt="Optativa" title="Optativa" id="Jirachi">
+                    <span class="asignatura">OPT</span>
+                    <span class="asignatura-full">Proximamente</span>
+                </div>
+                <div class="imagen-container">
+                    <img src="/webroot/media/pokemon/megaGardevoir.jpg" alt="Inglés" title="Inglés" id="megaGardevoir">
+                    <span class="asignatura">ING</span>
+                    <span class="asignatura-full">Proximamente</span>
+                </div>
+                <div class="imagen-container">
+                    <img src="/webroot/media/pokemon/Mew.jpg" alt="IPE" title="IPE" id="Mew">
+                    <span class="asignatura">IPE</span>
+                    <span class="asignatura-full">Proximamente</span>
+                </div>
             </div>
-            <div class="imagen-container">
-                <img src="/webroot/media/pokemon/Bulbasur.jpg" alt="Bases de datos" title="Bases de datos" id="Bulbasur">
-                <span class="asignatura">Bases de datos</span>
+        </div>
+
+        <!-- 2º Curso (de ejemplo) -->
+        <input type="radio" id="curso2" name="curso" class="curso" />
+        <div class="curso-content">
+            <h2>Asignaturas 2º curso</h2>
+            <div class="asignaturas">
+                <!-- Aquí puedes agregar las asignaturas del segundo curso -->
+                <div class="imagen-container">
+                    <img src="/webroot/media/pokemon/Mew.jpg" alt="Asignatura 1" title="Asignatura 1" id="Arceus">
+                    <span class="asignatura">Pronto...</span>
+                    <span class="asignatura-full">Proximamente</span>
+                </div>
+                <div class="imagen-container">
+                    <img src="/webroot/media/pokemon/megaGardevoir.jpg" alt="Asignatura 2" title="Asignatura 2"
+                        id="Deoxys">
+                    <span class="asignatura">Pronto...</span>
+                    <span class="asignatura-full">Proximamente</span>
+                </div>
             </div>
-            <div class="imagen-container">
-                <a href="/116EDProyectoED/index.html" target="_blank"><img src="/webroot/media/pokemon/Charizard.jpg" alt="Entornos de desarrollo" title="Entornos de desarrollo" id="Charizard">
-                <span class="asignatura">Entornos de desarrollo</span></a>
-            </div>
-            <div class="imagen-container">
-                <img src="/webroot/media/pokemon/Chikorita.jpg" alt="Sistemas informáticos" title="Sistemas informáticos" id="Chikorita">
-                <span class="asignatura">Sistemas informáticos</span>
-            </div>
-            <div class="imagen-container">
-                <img src="/webroot/media/pokemon/Eevee.jpg" alt="Programación" title="Programación" id="Eevee">
-                <span class="asignatura">Programación</span>
-            </div>
-            <div class="imagen-container">
-                <img src="/webroot/media/pokemon/Jirachi.jpg" alt="Optativa" title="Optativa" id="Jirachi">
-                <span class="asignatura">Optativa</span>
-            </div>
-            <div class="imagen-container">
-                <img src="/webroot/media/pokemon/megaGardevoir.jpg" alt="Inglés" title="Inglés" id="megaGardevoir">
-                <span class="asignatura">Inglés</span>
-            </div>
-            <div class="imagen-container">
-                <img src="/webroot/media/pokemon/Mew.jpg" alt="IPE" title="IPE" id="Mew">
-                <span class="asignatura">IPE</span>
-            </div>
-        </section>
+        </div>
     </main>
-
     <footer>
+
         <div id="redes-sociales">
-            <a href="https://github.com/irenerodriguezrod" target="_blank"> <!--GitHub-->
+            
+            <a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI"> <!--GitHub-->
                 <i class="fa-brands fa-github" style="color: #000000;"></i>
             </a>
+            <a href="https://hub.docker.com/u/irenerodriguez">
+                <i class="fa-brands fa-docker"></i>
+            </a>
+
             <a href="/rss/canal.xml"> <!--RSS-->
                 <i class="fa-solid fa-rss" style="color: #F58321;"></i>
             </a>
-            <a href="https://validator.w3.org/check?uri=https://daw116.ieslossauces.es" target="_blank"> <!--Validacion W3C-->
+            <a href="/webroot/doc/IreneRodriguezR.pdf">
+                <i class="fa-solid fa-file"></i>
+            </a>
+            <a href="https://validator.w3.org/check?uri=https://daw116.ieslossauces.es"> <!--Validacion W3C-->
                 <img src="/webroot/media/W3C_Icon.svg" alt="Validado por W3C" width="88" height="31">
             </a>
-            <a href="http://validator.w3.org/feed/check.cgi?url=https%3A//daw116.ieslossauces.es/feed/rss.xml" target="_blank">
+            <a href="http://validator.w3.org/feed/check.cgi?url=https%3A//daw116.ieslossauces.es/feed/rss.xml">
                 <!--Validación RSS-->
                 <img src="/webroot/media/valid-rss.png" alt="[Valid RSS]" title="Validate my RSS feed" width="88"
-                    height="31" >
+                    height="31">
             </a>
-            <a href="/versionesAnteriores/01/index.html" target="_blank">
-                V1.0                
+            
+        </div>
+        <div id="textoDF">
+            <p>2024-25 IES LOS SAUCES. © Todos los derechos reservados. <a href="../../index.html">Irene Rodríguez
+                    Rodríguez</a></p>
+            <time datetime="2025-06-03">Última actualización: 03 de Junio de 2025</time>
+        </div>
+        <div id="versionesAnteriores">
+            <a href="/versionesAnteriores/01/index.html">
+                <i class="fa-solid fa-1"></i>
             </a>
-            <a href="/webroot/doc/IreneRodriguezR.pdf" target="_blank">
-                CV
+            <i class="fa-solid fa-ellipsis-vertical"></i>
+            <a href="/versionesAnteriores/02/index.html">
+                <i class="fa-solid fa-2"></i>
             </a>
         </div>
     </footer>
