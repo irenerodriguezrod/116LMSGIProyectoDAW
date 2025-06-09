@@ -14,7 +14,7 @@
         </image>
         <category>Educación</category>
         <managingEditor>irene.rodrod.2@educa.jcyl.es(Irene Rodríguez)</managingEditor>
-        <lastBuildDate>Wed, 9 Apr 2025 18:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jun 2025 10:00:00 +0100</lastBuildDate>
         <skipDays>
             <day>Saturday</day>
             <day>Sunday</day>
@@ -364,7 +364,28 @@
             
             <guid isPermaLink="true">https://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/unidad6/04/index.html</guid>
         </item>
-
+        
+        <!-- P19. Examen 04 -->
+        <item>
+            <title>Examen 04. Horóscopo/Signos del zodiaco</title>
+            <link>https://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/examen/04/index.html</link>
+            <description><![CDATA[ 
+                Examen final del tercer trimestre. Consta de una web sobre los diferentes signos del zodiaco, las fechas entre las que se encuentra cada signo. 
+                Incluye javascript para que a la hora de hacer click sobre alguna de las imagenes aparezca mas informacion sobre el signo que queremos visionar
+               ]]>
+            </description>
+            
+            <category>Educación</category>
+            <category>Examen</category>
+            <category>LMSGI</category>
+            
+            <pubDate>Mon, 09 Jun 2025 10:00:00 +0100</pubDate>
+            
+            <author>irene.rodrod.2@educa.jcyl.es (Irene Rodríguez)</author>
+            
+            <guid isPermaLink="true">https://daw116.ieslossauces.es/116LMSGIProyectoLMSGI/examen/04/index.html</guid>
+        </item>
+        
     </channel>
     
 </rss>
