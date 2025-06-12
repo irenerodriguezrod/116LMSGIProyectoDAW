@@ -13,6 +13,75 @@
         Información del repositorio.
     </h2>
     <p>Repositorio de DAW116 | Irene Rodríguez, en el que encontrarás información sobre las diferentes prácticas del curso 2024-2025.</p>
+
+<h2>Asignaturas</h2>
+    <table>
+        <thead>
+            <th>Asignatura</th>
+            <th>Abreviatura</th>
+            <th>Información | Tecnologías empleadas</th>
+            <th>URL</th>
+            <th>Fecha actualización</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Lenguaje de Marcas y Sistemas de Gestión de Información</td>
+                <td>LMSGI</td>
+                <td>HTML5, CSS3, JavaScript, XML, DTD, XSLT, XPath, XQuery, XSD, MarkDown, JSon</td>
+                <td><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI">REPOSITORIO</a></td>
+                <td>09.Jun.2025</td>
+            <tr>
+            <tr>
+                <td>Entornos de Desarrollo</td>
+                <td>ED</td>
+                <td>Eclipse, XAMPP, NetBeans, Visual Studio Code</td>
+                <td><a href="https://github.com/irenerodriguezrod/116EDProyectoED">REPOSITORIO</a></td>
+                <td>09.Jun.2025</td>
+            <tr>
+            <tr>
+                <td>Bases de Datos</td>
+                <td>BDD</td>
+                <td>MySQL (Command Line Client & WorkBench)</td>
+                <td><a href="https://github.com/irenerodriguezrod/116BDProyectoBD">REPOSITORIO</a></td>
+                <td>---</td>
+            <tr>
+            <tr>
+                <td>Programación</td>
+                <td>PROG</td>
+                <td>Java, Java Swing</td>
+                <td><a href="https://github.com/irenerodriguezrod/116PROGProyectoPROG">REPOSITORIO</a></td>
+                <td>---</td>
+            <tr>
+            <tr>
+                <td>Sistemas Informáticos</td>
+                <td>SI</td>
+                <td>Linux, Windows</td>
+                <td><a href="https://github.com/irenerodriguezrod/116SIProyectoSI">REPOSITORIO</a></td>
+                <td>---</td>
+            <tr>
+            <tr>
+                <td>Optativa (Docker - Fundamentos de contenerización)</td>
+                <td>OPT</td>
+                <td>Docker, DockerHub</td>
+                <td><a href="https://github.com/irenerodriguezrod/116OPTProyectoOPT">REPOSITORIO</a></td>
+                <td>---</td>
+            <tr>
+            <tr>
+                <td>Inglés</td>
+                <td>ING</td>
+                <td></td>
+                <td><a href="https://github.com/irenerodriguezrod/116INGProyectoING">REPOSITORIO</a></td>
+                <td>---</td>
+            <tr>
+            <tr>
+                <td>Itinerario Personal para la Empleabilidad</td>
+                <td>IPE</td>
+                <td></td>
+                <td><a href="https://github.com/irenerodriguezrod/116IPEProyectoIPE">REPOSITORIO</a></td>
+                <td>---</td>
+            <tr>
+        </tbody>
+    </table>
 </div>
 
 <br>
@@ -73,5 +142,5 @@
 <br>
 
 <div align="right">
-    <p>Última modificación:<i> 15 de abril de 2025</i></p>
+    <p>Última modificación:<i> 12 de junio de 2025</i></p>
 </div>
